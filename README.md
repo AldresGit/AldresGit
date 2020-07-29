@@ -1,11 +1,10 @@
 [![Header](https://raw.githubusercontent.com/AldresGit/AldresGit/master/contact.gif)](https://github.com/AldresGit/)
 
-##### Hi, I'm Alberto:
+##### Hola, soy Alberto:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+- 🎓 Graduado en Ingeniería del Software - UMA
+- :test_tube: Fullstack Developer en proceso.
+- :mailbox: ¡Puedes contactar conmigo en los siguientes enlaces!
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](albertorodrigueztorres95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-rodr%C3%ADguez-torres-726730193/)
