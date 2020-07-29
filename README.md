@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](albertorodrigueztorres95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-rodr%C3%ADguez-torres-726730193/)
 
-##### Languages I use
+##### Lenguajes que uso
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%23)
@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
-##### Some of the technologies I have worked with
+##### Algunas tecnologías con las que he trabajado
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
